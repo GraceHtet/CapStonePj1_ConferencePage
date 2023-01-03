@@ -57,6 +57,7 @@ After you're finished please remove all the comments and instructions!
 # 📖 [CapstoneProject] <a name="capstone-project"></a>
 
 > This is Conference page made for my first capstone project.
+> [Short_Description] (https://www.loom.com/share/9792651f251448a78b353be00369dd90)
 
 **[CapstoneProject]** is a...
 
@@ -72,9 +73,8 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[HOME]**
+- **[ABOUT]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -84,7 +84,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://gracehtet.github.io/myFIrstPortfolio/)
+- [Live Demo Link](https://gracehtet.github.io/CapStonePj1_ConferencePage/#program)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
