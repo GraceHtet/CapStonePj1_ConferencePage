@@ -21,10 +21,7 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
 
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>Conference README Template</b></h3>
 
 </div>
 
@@ -84,7 +81,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://gracehtet.github.io/CapStonePj1_ConferencePage/#program)
+- [Live Demo Link](https://gracehtet.github.io/CapStonePj1_ConferencePage/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
